@@ -1,0 +1,1 @@
+# AniX is a simple project showcasing animated login page and signup page
